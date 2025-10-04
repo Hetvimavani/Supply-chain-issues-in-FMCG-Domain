@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Power BI caches
+*.pbix.refresh.json
+*.pbit.refresh.json
+
+# Logs / temp
+*.tmp
+*.log
+
+# Keep raw data out (optional)
+Data/raw/*
+!Data/raw/.gitkeep
+
+# Secrets (never commit)
+.env
+*.key
+*.pem
