@@ -2,7 +2,7 @@
 
 ## Overview
 ## Problem statement
-This project is based on a FMCG (Fast-Moving Consumer Goods) supply chain scenario involving operations across three major cities in Gujarat — Surat, Ahmedabad, and Vadodara.
+This project is based on a FMCG (Fast-Moving Consumer Goods) supply chain scenario involving operations across three major cities in Gujarat (Surat, Ahmedabad, and Vadodara).
 The organization is preparing for expansion into additional metro and tier-1 cities over the next two years.
 
 Recently, management observed that some key customers did not renew their annual contracts due to recurring service issues. In particular, several essential products were not delivered on time or not delivered in full, resulting in lower customer satisfaction and potential revenue loss.
